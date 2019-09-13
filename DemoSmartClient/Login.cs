@@ -85,7 +85,7 @@ namespace DemoSmartClient
                     }
                 }
             }
-            catch (Exception)
+            catch (Exception ex)
             {
 
                 throw;
